@@ -1,0 +1,88 @@
+#logo{
+  height: 40px;
+}
+#searchInput{
+
+}
+.page-header{
+
+  background-color: #e3e3e3;
+   padding-top: 35px;
+  text-align: center;
+  font-family: sans-serif;
+}
+#ArtgalleryImg{
+  height: 300px;
+  width: 355px;
+}
+.jumbotron{
+  text-align: center;
+}
+a{
+  color: green;
+}
+
+.navbar-brand{
+float: left;
+  color:black;
+}
+
+#main{
+  align-content: center;
+}
+#tw,#fb
+{
+  width: 50px;
+}
+#surya{
+
+width: 280px;
+height: 250px;
+}
+h4 ,h5{
+  text-decoration: underline;
+  color: black;
+}
+body{
+  align-content: center;
+}
+
+h5{
+  text-decoration: none;
+}
+p
+{
+  color:black;
+}
+#img1
+{
+
+  width: 990px;
+  height: 700px;
+}
+#ArtgalleryImg{
+
+  width: 200px;
+  height: 150px;
+}
+
+#row1{
+
+  align-content: center;
+
+}
+.footer_icon
+{
+
+  width: 60px;
+  height: 60px;
+}
+#footer{
+  background-color:#e3e3e3;
+}
+
+.navbar-form{
+  padding-bottom: 0px;
+  float: left;
+  align-content: center;
+}
